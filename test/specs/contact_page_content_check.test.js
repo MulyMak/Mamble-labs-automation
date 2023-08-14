@@ -1,6 +1,5 @@
 const ContactPage = require('../../pages/contact_page')
 const ContentData = require('../../data/input_data.js')
-const assert = require('assert')
 
 const CP = new ContactPage()
 const CD = new ContentData()
